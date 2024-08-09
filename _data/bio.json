@@ -62,16 +62,32 @@
   "work": [
     {
       "company": "Sky Betting and Gaming",
-      "position": "Tech Academy Graduate",
-      "website": "",
-      "startDate": "2019-08-27",
-      "endDate": "2021-08-27",
-      "summary": "Help release in live code while going through an apprenticeship-masters programme",
+      "position": "Senior Back-End Software Engineer",
+      "startDate": "2023-10-02",
+      "endDate": "Present",
+      "summary": "Continued to aid with my software development expertise while being more involved in the build up of bringing projects into the wider team.",
       "highlights": [
-        "Majority of work was based within Apex, a Salesforce specific Java-based language, of which I have become proficient. I have also worked largely in JavaScript, HTML, and CSS. I also attended training for many languages including; Ruby, Kafka, Docker, php, and SQL.",
-        "Worked regularly in pair-programming sessions with team members, often leading, to share knowledge and best practice.",
-        "Worked closely with team leads to bring in and set requirements for projects, later used to create tickets for the team to work on.",
-        "Maintaining all the above whilst simultaneously completing and achieving a Distinction level master’s degree."
+        "Started working in the customer data team with the main project being migrating customers from one stack to another using a variety of APIs and solving a mixture of challenges, such as connecting to databases that involve PCI, Personal Cardholder Information, data.",
+        "Heavily involved in the initial creation of tickets from roadmap items given to us from the leadership team.",
+        "Took more responsibility in reaching out to other teams and specialists for work required to unblock our team.",
+        "The sole point of contact for other teams in lieu of a team leader while working in a senior role. This involved discussion and negotiation around the prioritising and changes of new tickets.",
+        "Onboarded multiple new developers, educating and developing them in specific stacks and languages to ensure they have the knowledge required to succeed.",
+        "As the foremost senior in the team, I was personally responsible for decisions on software, languages, courses of action, and leadership over various projects.",
+        "Volunteered to aid a small team to improve an integrated bot system, which is a vital point of contact between colleagues and wellbeing advisors."
+      ]
+    },
+    {
+      "company": "Sky Betting and Gaming",
+      "position": "Full Stack Software Engineer",
+      "startDate": "2022-05-23",
+      "endDate": "2023-10-02",
+      "summary": "Expanded my software developing expertise, working on my soft skills during pair programming while obtaining my AWS and ILM certifications.",
+      "highlights": [
+        "Started working in the onboarding team, focusing on the authentication and verification of customers. This included knowledge of both front and back-end programming techniques.",
+        "Primarily coded with React of which I have become proficient, as well as regular work in Java, JavaScript, and Jest. I further have experience through my time in this role with Kafka, Cypress, Kubernetes, Docker, SQL, and YAML.",
+        "I have run daily CI pipeline releases through Jenkins, with no issues or bugs noted. Additional to running I have also created multiple Jenkins jobs through Kubernetes to aid in our CI pipeline for new projects.",
+        "Personally led projects to ensure technical and product documentation within the team is up to its highest standard to share best practice. Feedback gained from this exercise has been entirely positive, with some of my procedures adapted and spread into other teams.",
+        "I have been often driven to take on ambitious tasks and projects where I have worked closely with more knowledgeable team members to improve and expand my knowledge and skillsets."
       ]
     },
     {
@@ -92,39 +108,23 @@
     },
     {
       "company": "Sky Betting and Gaming",
-      "position": "Full Stack Software Engineer",
-      "startDate": "2022-05-23",
-      "endDate": "2023-10-02",
-      "summary": "Expanded my software developing expertise, working on my soft skills during pair programming while obtaining my AWS and ILM certifications.",
+      "position": "Tech Academy Graduate",
+      "website": "",
+      "startDate": "2019-08-27",
+      "endDate": "2021-08-27",
+      "summary": "Help release in live code while going through an apprenticeship-masters programme",
       "highlights": [
-        "Started working in the onboarding team, focusing on the authentication and verification of customers. This included knowledge of both front and back-end programming techniques.",
-        "Primarily coded with React of which I have become proficient, as well as regular work in Java, JavaScript, and Jest. I further have experience through my time in this role with Kafka, Cypress, Kubernetes, Docker, SQL, and YAML.",
-        "I have run daily CI pipeline releases through Jenkins, with no issues or bugs noted. Additional to running I have also created multiple Jenkins jobs through Kubernetes to aid in our CI pipeline for new projects.",
-        "Personally led projects to ensure technical and product documentation within the team is up to its highest standard to share best practice. Feedback gained from this exercise has been entirely positive, with some of my procedures adapted and spread into other teams.",
-        "I have been often driven to take on ambitious tasks and projects where I have worked closely with more knowledgeable team members to improve and expand my knowledge and skillsets."
-      ]
-    },
-    {
-      "company": "Sky Betting and Gaming",
-      "position": "Senior Back-End Software Engineer",
-      "startDate": "2023-10-02",
-      "endDate": "present",
-      "summary": "Continued to aid with my software development expertise while being more involved in the build up of bringing projects into the wider team.",
-      "highlights": [
-        "Started working in the customer data team with the main project being migrating customers from one stack to another using a variety of APIs and solving a mixture of challenges, such as connecting to databases that involve PCI, Personal Cardholder Information, data.",
-        "Heavily involved in the initial creation of tickets from roadmap items given to us from the leadership team.",
-        "Took more responsibility in reaching out to other teams and specialists for work required to unblock our team.",
-        "The sole point of contact for other teams in lieu of a team leader while working in a senior role. This involved discussion and negotiation around the prioritising and changes of new tickets.",
-        "Onboarded multiple new developers, educating and developing them in specific stacks and languages to ensure they have the knowledge required to succeed.",
-        "As the foremost senior in the team, I was personally responsible for decisions on software, languages, courses of action, and leadership over various projects.",
-        "Volunteered to aid a small team to improve an integrated bot system, which is a vital point of contact between colleagues and wellbeing advisors."
+        "Majority of work was based within Apex, a Salesforce specific Java-based language, of which I have become proficient. I have also worked largely in JavaScript, HTML, and CSS. I also attended training for many languages including; Ruby, Kafka, Docker, php, and SQL.",
+        "Worked regularly in pair-programming sessions with team members, often leading, to share knowledge and best practice.",
+        "Worked closely with team leads to bring in and set requirements for projects, later used to create tickets for the team to work on.",
+        "Maintaining all the above whilst simultaneously completing and achieving a Distinction level master’s degree."
       ]
     }
   ],
   "awards": [
     {
       "title": "Salesforce Certified Administrator",
-      "date": "2021-Present",
+      "date": "2021",
       "awarder": "Salesforce",
       "summary": "One of many Salesforce certifications and the first if I were to go down the route of Salesforce long-term."
     },
